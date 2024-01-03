@@ -23,6 +23,6 @@ https://jagannadh18.github.io/FRT-Project/
 
 ## Project demo Vedio Url : 
 
-## Azure Link : https://black-cliff-0f202ea10.2.azurestaticapps.net/
+
 
 
