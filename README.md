@@ -6,21 +6,6 @@ In my website, I have tell all the practices help countries grow in ways that ad
 https://jagannadh18.github.io/FRT-Project/
 
 
-## Home Page
-![image]
-
-
-## AZURE Services
-
-
-## Static Web App
-![image]
-## Azure Health Bot
-![image]
-
-
-## Project Demo URL : https://jagannadh18.github.io/FRT-Project/ 
-
 
 
 
