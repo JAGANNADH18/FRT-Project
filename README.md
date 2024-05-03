@@ -21,7 +21,7 @@ https://jagannadh18.github.io/FRT-Project/
 
 ## Project Demo URL : https://jagannadh18.github.io/FRT-Project/ 
 
-## Project demo Vedio Url : 
+
 
 
 
